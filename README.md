@@ -5,6 +5,11 @@ Assignment for CSPC 4800
 This project aim to provide the insight for the manager to have an overview on the sale price and how other factors of the house impact to it, such as: house quality, the size of the lot and the age of the building/ house.
 Other additional information about the material and quality of the Roof and the Exterior.
 
+## Project components
+* Notebook: This folder contains the jupyter notebooks where I saved all the codes used.
+* Data: This folder contains the dataset saved as train.csv, used for this assignment and a full description of the variables.
+* Doc: Contains the summary of analysis in PDF and doc format.
+
 ## Data definition
 There are 81 variables and below are the definitions of only those used in this EDA. For full description, please refer to this link https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
 
